@@ -1,1 +1,1 @@
-Hello Git and GitHub
+Just practicing using Git and GitHub
